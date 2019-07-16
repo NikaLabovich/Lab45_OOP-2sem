@@ -1,0 +1,110 @@
+D:\!Фит ПОИТ\!4 семестр\ООП\Решения\Лабораторная 4_5\OOP4_5\OOP4_5\bin\Debug\OOP4_5.exe.config
+D:\!Фит ПОИТ\!4 семестр\ООП\Решения\Лабораторная 4_5\OOP4_5\OOP4_5\bin\Debug\OOP4_5.exe
+D:\!Фит ПОИТ\!4 семестр\ООП\Решения\Лабораторная 4_5\OOP4_5\OOP4_5\bin\Debug\OOP4_5.pdb
+D:\!Фит ПОИТ\!4 семестр\ООП\Решения\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\OOP4_5.csprojAssemblyReference.cache
+D:\!Фит ПОИТ\!4 семестр\ООП\Решения\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\MainWindow.g.cs
+D:\!Фит ПОИТ\!4 семестр\ООП\Решения\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\App.g.cs
+D:\!Фит ПОИТ\!4 семестр\ООП\Решения\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\OOP4_5_MarkupCompile.cache
+D:\!Фит ПОИТ\!4 семестр\ООП\Решения\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\OOP4_5_MarkupCompile.lref
+D:\!Фит ПОИТ\!4 семестр\ООП\Решения\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\MainWindow.baml
+D:\!Фит ПОИТ\!4 семестр\ООП\Решения\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\OOP4_5.g.resources
+D:\!Фит ПОИТ\!4 семестр\ООП\Решения\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\OOP4_5.Properties.Resources.resources
+D:\!Фит ПОИТ\!4 семестр\ООП\Решения\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\OOP4_5.csproj.GenerateResource.cache
+D:\!Фит ПОИТ\!4 семестр\ООП\Решения\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\OOP4_5.csproj.CoreCompileInputs.cache
+D:\!Фит ПОИТ\!4 семестр\ООП\Решения\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\OOP4_5.exe
+D:\!Фит ПОИТ\!4 семестр\ООП\Решения\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\OOP4_5.pdb
+D:\!Фит ПОИТ\!4 семестр\1.ООП\Решения\Лабораторная 4_5\OOP4_5\OOP4_5\bin\Debug\OOP4_5.exe.config
+D:\!Фит ПОИТ\!4 семестр\1.ООП\Решения\Лабораторная 4_5\OOP4_5\OOP4_5\bin\Debug\OOP4_5.exe
+D:\!Фит ПОИТ\!4 семестр\1.ООП\Решения\Лабораторная 4_5\OOP4_5\OOP4_5\bin\Debug\OOP4_5.pdb
+D:\!Фит ПОИТ\!4 семестр\1.ООП\Решения\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\OOP4_5.csprojAssemblyReference.cache
+D:\!Фит ПОИТ\!4 семестр\1.ООП\Решения\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\MainWindow.g.cs
+D:\!Фит ПОИТ\!4 семестр\1.ООП\Решения\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\App.g.cs
+D:\!Фит ПОИТ\!4 семестр\1.ООП\Решения\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\OOP4_5_MarkupCompile.cache
+D:\!Фит ПОИТ\!4 семестр\1.ООП\Решения\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\OOP4_5_MarkupCompile.lref
+D:\!Фит ПОИТ\!4 семестр\1.ООП\Решения\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\MainWindow.baml
+D:\!Фит ПОИТ\!4 семестр\1.ООП\Решения\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\OOP4_5.g.resources
+D:\!Фит ПОИТ\!4 семестр\1.ООП\Решения\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\OOP4_5.Properties.Resources.resources
+D:\!Фит ПОИТ\!4 семестр\1.ООП\Решения\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\OOP4_5.csproj.GenerateResource.cache
+D:\!Фит ПОИТ\!4 семестр\1.ООП\Решения\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\OOP4_5.csproj.CoreCompileInputs.cache
+D:\!Фит ПОИТ\!4 семестр\1.ООП\Решения\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\OOP4_5.exe
+D:\!Фит ПОИТ\!4 семестр\1.ООП\Решения\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\OOP4_5.pdb
+D:\!Фит ПОИТ\!4 семестр\1.ООП\Решения\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\Resourses\langEN.baml
+D:\!Фит ПОИТ\!4 семестр\1.ООП\Решения\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\Resourses\langRU.baml
+\\Mac\Home\Desktop\Лабораторная 4_5\OOP4_5\OOP4_5\bin\Debug\OOP4_5.exe.config
+\\Mac\Home\Desktop\Лабораторная 4_5\OOP4_5\OOP4_5\bin\Debug\OOP4_5.exe
+\\Mac\Home\Desktop\Лабораторная 4_5\OOP4_5\OOP4_5\bin\Debug\OOP4_5.pdb
+\\Mac\Home\Desktop\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\OOP4_5.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\Resourses\langEN.baml
+\\Mac\Home\Desktop\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\Resourses\langFR.baml
+\\Mac\Home\Desktop\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\Resourses\langRU.baml
+\\Mac\Home\Desktop\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Desktop\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\OOP4_5_MarkupCompile.cache
+\\Mac\Home\Desktop\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\OOP4_5_MarkupCompile.lref
+\\Mac\Home\Desktop\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\App.baml
+\\Mac\Home\Desktop\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\Dark.baml
+\\Mac\Home\Desktop\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\Light.baml
+\\Mac\Home\Desktop\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\MainWindow.baml
+\\Mac\Home\Desktop\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\Template.baml
+\\Mac\Home\Desktop\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\Trigger.baml
+\\Mac\Home\Desktop\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\OOP4_5.g.resources
+\\Mac\Home\Desktop\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\OOP4_5.Properties.Resources.resources
+\\Mac\Home\Desktop\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\OOP4_5.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\OOP4_5.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\OOP4_5.exe
+\\Mac\Home\Desktop\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\OOP4_5.pdb
+\\Mac\Home\Desktop\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\Template2.baml
+\\Mac\Home\Desktop\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\UserControl1.g.cs
+\\Mac\Home\Desktop\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\UserControl1.baml
+\\Mac\Home\Desktop\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\bin\Debug\OOP4_5.exe.config
+\\Mac\Home\Desktop\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\bin\Debug\OOP4_5.exe
+\\Mac\Home\Desktop\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\bin\Debug\OOP4_5.pdb
+\\Mac\Home\Desktop\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\OOP4_5.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\Resourses\langEN.baml
+\\Mac\Home\Desktop\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\Resourses\langFR.baml
+\\Mac\Home\Desktop\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\Resourses\langRU.baml
+\\Mac\Home\Desktop\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Desktop\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\UserControl1.g.cs
+\\Mac\Home\Desktop\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\OOP4_5_MarkupCompile.cache
+\\Mac\Home\Desktop\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\OOP4_5_MarkupCompile.lref
+\\Mac\Home\Desktop\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\App.baml
+\\Mac\Home\Desktop\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\Dark.baml
+\\Mac\Home\Desktop\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\Light.baml
+\\Mac\Home\Desktop\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\MainWindow.baml
+\\Mac\Home\Desktop\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\Template.baml
+\\Mac\Home\Desktop\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\Template2.baml
+\\Mac\Home\Desktop\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\Trigger.baml
+\\Mac\Home\Desktop\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\UserControl1.baml
+\\Mac\Home\Desktop\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\OOP4_5.g.resources
+\\Mac\Home\Desktop\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\OOP4_5.Properties.Resources.resources
+\\Mac\Home\Desktop\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\OOP4_5.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\OOP4_5.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\OOP4_5.exe
+\\Mac\Home\Desktop\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\OOP4_5.pdb
+\\Mac\Home\Desktop\Учёба\2 курс 2 сем\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\bin\Debug\OOP4_5.exe.config
+\\Mac\Home\Desktop\Учёба\2 курс 2 сем\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\bin\Debug\OOP4_5.exe
+\\Mac\Home\Desktop\Учёба\2 курс 2 сем\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\bin\Debug\OOP4_5.pdb
+\\Mac\Home\Desktop\Учёба\2 курс 2 сем\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\OOP4_5.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Учёба\2 курс 2 сем\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\Resourses\langEN.baml
+\\Mac\Home\Desktop\Учёба\2 курс 2 сем\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\Resourses\langFR.baml
+\\Mac\Home\Desktop\Учёба\2 курс 2 сем\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\Resourses\langRU.baml
+\\Mac\Home\Desktop\Учёба\2 курс 2 сем\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Desktop\Учёба\2 курс 2 сем\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\UserControl1.g.cs
+\\Mac\Home\Desktop\Учёба\2 курс 2 сем\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\Учёба\2 курс 2 сем\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\OOP4_5_MarkupCompile.cache
+\\Mac\Home\Desktop\Учёба\2 курс 2 сем\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\OOP4_5_MarkupCompile.lref
+\\Mac\Home\Desktop\Учёба\2 курс 2 сем\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\App.baml
+\\Mac\Home\Desktop\Учёба\2 курс 2 сем\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\Dark.baml
+\\Mac\Home\Desktop\Учёба\2 курс 2 сем\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\Light.baml
+\\Mac\Home\Desktop\Учёба\2 курс 2 сем\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\MainWindow.baml
+\\Mac\Home\Desktop\Учёба\2 курс 2 сем\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\Template.baml
+\\Mac\Home\Desktop\Учёба\2 курс 2 сем\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\Template2.baml
+\\Mac\Home\Desktop\Учёба\2 курс 2 сем\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\Trigger.baml
+\\Mac\Home\Desktop\Учёба\2 курс 2 сем\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\UserControl1.baml
+\\Mac\Home\Desktop\Учёба\2 курс 2 сем\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\OOP4_5.g.resources
+\\Mac\Home\Desktop\Учёба\2 курс 2 сем\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\OOP4_5.Properties.Resources.resources
+\\Mac\Home\Desktop\Учёба\2 курс 2 сем\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\OOP4_5.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Учёба\2 курс 2 сем\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\OOP4_5.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Учёба\2 курс 2 сем\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\OOP4_5.exe
+\\Mac\Home\Desktop\Учёба\2 курс 2 сем\ООП\лабы\Лабораторная 4_5\OOP4_5\OOP4_5\obj\Debug\OOP4_5.pdb

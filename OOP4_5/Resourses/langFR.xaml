@@ -1,0 +1,35 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:lang="clr-namespace:System;assembly=mscorlib">
+    <lang:String x:Key="_Title">Сarnet de notes</lang:String>
+
+
+    <lang:String x:Key="_File">File</lang:String>
+    <lang:String x:Key="_New">Nuveau</lang:String>
+    <lang:String x:Key="_Open">Ouvrir</lang:String>
+    <lang:String x:Key="_Edit">Modifier</lang:String>
+    <lang:String x:Key="_Undo">Annuler</lang:String>
+    <lang:String x:Key="_Redo">Refaire</lang:String>
+    <lang:String x:Key="_Cut">Couper</lang:String>
+    <lang:String x:Key="_Copy">Copie</lang:String>
+    <lang:String x:Key="_Paste">Coller</lang:String>
+
+
+    <lang:String x:Key="_Clear">Barrer</lang:String>
+    <lang:String x:Key="_Save">Sauver</lang:String>
+
+
+
+    <lang:String x:Key="_Color">Couleur</lang:String>
+
+    <lang:String x:Key="_Lang">Language</lang:String>
+    <lang:String x:Key="_Eng">Englais</lang:String>
+    <lang:String x:Key="_Ru">Russie</lang:String>
+    <lang:String x:Key="_Fr">Fransais</lang:String>
+
+    <lang:String x:Key="_Bold">Audacieux</lang:String>
+    <lang:String x:Key="_Italic">Italique</lang:String>
+    <lang:String x:Key="_Underline">Souligner</lang:String>
+    <lang:String x:Key="_Font">Police de caractère</lang:String>
+    <lang:String x:Key="_FontSize">Taille de police</lang:String>
+</ResourceDictionary>

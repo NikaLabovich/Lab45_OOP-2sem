@@ -1,0 +1,31 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:lang="clr-namespace:System;assembly=mscorlib">
+    <lang:String x:Key="_Title">Блокнот</lang:String>
+
+    
+    <lang:String x:Key="_Clear">Очистить</lang:String>
+    <lang:String x:Key="_Save">Сохранить</lang:String>
+    <lang:String x:Key="_Open">Открыть</lang:String>
+    <lang:String x:Key="_File">Файл</lang:String>
+    <lang:String x:Key="_New">Новый</lang:String>
+    <lang:String x:Key="_Undo">Отмена</lang:String>
+    <lang:String x:Key="_Cut">Вырезать</lang:String>
+    <lang:String x:Key="_Copy">Скопировать</lang:String>
+    <lang:String x:Key="_Paste">Вставить</lang:String>
+    <lang:String x:Key="_Redo">Вернуть</lang:String>
+   
+
+    <lang:String x:Key="_Color">Цвет</lang:String>
+
+    <lang:String x:Key="_Lang">Язык</lang:String>
+    <lang:String x:Key="_Eng">Английский</lang:String>
+    <lang:String x:Key="_Ru">Русский</lang:String>
+    <lang:String x:Key="_Fr">Французский</lang:String>
+
+    <lang:String x:Key="_Bold">Жирный</lang:String>
+    <lang:String x:Key="_Italic">Курсив</lang:String>
+    <lang:String x:Key="_Underline">Подчеркнутый</lang:String>
+    <lang:String x:Key="_Font">Шрифт</lang:String>
+    <lang:String x:Key="_FontSize">Размер шрифта</lang:String>
+</ResourceDictionary>

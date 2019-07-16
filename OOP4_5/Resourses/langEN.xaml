@@ -1,0 +1,36 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:lang="clr-namespace:System;assembly=mscorlib">
+    <lang:String x:Key="_Title">Notepad</lang:String>
+
+   
+    <lang:String x:Key="_File">File</lang:String>
+    <lang:String x:Key="_New">New</lang:String>
+    <lang:String x:Key="_Open">Open</lang:String>
+    <lang:String x:Key="_Edit">Edit</lang:String>
+    <lang:String x:Key="_Undo">Undo</lang:String>
+    <lang:String x:Key="_Redo">Redo</lang:String>
+    <lang:String x:Key="_Cut">Cut</lang:String>
+    <lang:String x:Key="_Copy">Copy</lang:String>
+    <lang:String x:Key="_Paste">Paste</lang:String>
+    <lang:String x:Key="_RecentFiles">Recent Files</lang:String>
+
+
+    <lang:String x:Key="_Clear">Clear</lang:String>
+    <lang:String x:Key="_Save">Save</lang:String>
+    
+   
+
+    <lang:String x:Key="_Color">Color</lang:String>
+
+    <lang:String x:Key="_Lang">Language</lang:String>
+    <lang:String x:Key="_Eng">English</lang:String>
+    <lang:String x:Key="_Ru">Russian</lang:String>
+    <lang:String x:Key="_Fr">Franch</lang:String>
+
+    <lang:String x:Key="_Bold">Bold</lang:String>
+    <lang:String x:Key="_Italic">Italic</lang:String>
+    <lang:String x:Key="_Underline">Underline</lang:String>
+    <lang:String x:Key="_Font">Font</lang:String>
+    <lang:String x:Key="_FontSize">Font size</lang:String>
+</ResourceDictionary>

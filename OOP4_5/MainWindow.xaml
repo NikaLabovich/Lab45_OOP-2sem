@@ -1,0 +1,127 @@
+﻿<Window x:Class="OOP4_5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OOP4_5"
+        mc:Ignorable="d"
+        Title="{DynamicResource _Title}" Height="438" Width="1000" Icon="Resourses\accessories-text-editor.ico" Name="WindowApp"
+        Closing="WindowApp_Closing" Loaded="WindowApp_Loaded">
+    <Window.CommandBindings>
+        <CommandBinding Command="ApplicationCommands.New" Executed="ClearButton_Click" />
+        <CommandBinding Command="ApplicationCommands.Save" Executed="SaveButton_Click" />
+        <CommandBinding Command="ApplicationCommands.Open" Executed="OpenButton_Click" />
+        <CommandBinding Command="ApplicationCommands.Undo" CanExecute="Undo_CanExecute" Executed="Undo_Executed"/>
+        <CommandBinding Command="ApplicationCommands.Redo" CanExecute="Redu_CanExecute" Executed="Redu_Executed"/>
+    </Window.CommandBindings>
+    <Window.InputBindings>
+        <KeyBinding Command="New" Key="N" Modifiers="Ctrl"></KeyBinding>
+        <KeyBinding Command="Save" Key="S" Modifiers="Ctrl"></KeyBinding>
+        <KeyBinding Command="Open" Key="O" Modifiers="Ctrl"></KeyBinding>
+    </Window.InputBindings>
+    <Window.Resources>
+        <ResourceDictionary Source="Resourses/langEN.xaml"/>
+    </Window.Resources>
+    <Grid x:Name="myGrid" AllowDrop="True" ShowGridLines="False">
+       
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition />
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+
+        <Menu x:Name="Menu"  Style="{DynamicResource MenuStyle}">
+            <MenuItem  Header="{DynamicResource _File}">
+                <MenuItem  Command="ApplicationCommands.New" Header="{DynamicResource _New}" Foreground="Black"/>
+                <MenuItem Command="ApplicationCommands.Open" Header="{DynamicResource _Open}" Foreground="Black"/>
+                <MenuItem  Command="ApplicationCommands.Save" Header="{DynamicResource _Save}" Foreground="Black"/>
+                <Separator/>
+                <MenuItem x:Name="MenuItemRecentFiles" Header="{DynamicResource _RecentFiles}" Foreground="Black">
+                </MenuItem>
+            </MenuItem>
+            <MenuItem  Header="{DynamicResource _Edit}">
+                <MenuItem  Command="ApplicationCommands.Undo" Header="{DynamicResource _Undo}" Foreground="Black"/>
+                <MenuItem Command="ApplicationCommands.Redo" Header="{DynamicResource _Redo}" Foreground="Black"/>
+                <Separator/>
+                <MenuItem Command="ApplicationCommands.Cut" Header="{DynamicResource _Cut}" Foreground="Black"/>
+                <MenuItem  Command="ApplicationCommands.Copy" Header="{DynamicResource _Copy}" Foreground="Black"/>
+                <MenuItem  Command="ApplicationCommands.Paste" Header="{DynamicResource _Paste}" Foreground="Black"/>
+                <Separator/>
+
+                <MenuItem IsCheckable="True" Header="SpellCheck" Foreground="Black"/>
+            </MenuItem>
+        </Menu>
+
+        <!--Тул-бар-->
+        <ToolBar x:Name="Header" Grid.Row="1"  Height="44"   Style="{DynamicResource ToolBarStyle}">
+            <Button Click="OpenButton_Click" ToolTip="{DynamicResource _Open}" Width="33" Height="33" Style="{DynamicResource ButtonStyle}">
+                <Image Source="Resourses/folder-open.ico"/>
+            </Button>
+            <Button Click="SaveButton_Click" ToolTip="{DynamicResource _Save}" Width="33" Height="33" Style="{DynamicResource ButtonStyle}">
+                <Image Source="Resourses/gnome-documents.ico"/>
+            </Button>
+            <Button Click="ClearButton_Click" ToolTip="{DynamicResource _Clear}" Width="33" Height="33" Style="{DynamicResource ButtonStyle}">
+                <Image Source="Resourses/user-trash-full.ico"/>
+            </Button>
+            <Separator Background="Gray"/>
+
+            <ToggleButton Content="B" FontSize="20"  FontWeight="Bold" ToolTip="{DynamicResource _Bold}"  Margin="2" Height="33" Width="33" Command="EditingCommands.ToggleBold" Style="{DynamicResource ToggleButtonStyle1}" />
+            <ToggleButton Content="U" FontSize="20"  ToolTip="{DynamicResource _Underline}" Width="33"  Height="33" Margin="2" Command="EditingCommands.ToggleUnderline" Style="{DynamicResource ToggleButtonStyle1}"/>
+            <ToggleButton Content="I" FontSize="20"  FontStyle="Italic" ToolTip="{DynamicResource _Italic}" Margin="2" Width="33"  Height="33" Command="EditingCommands.ToggleItalic" Style="{DynamicResource ToggleButtonStyle1}"/>
+            <Separator Background="Gray"/>
+
+            <ComboBox x:Name="FontTypes" Height="auto" Width="auto" ToolTip="{DynamicResource _Font}" Margin="10,0,0,0" FontSize="15" SelectedIndex="0" FontFamily="Century Gothic" SelectionChanged="Font_Select"/>
+            <Slider x:Name="FontSizeSlider" ToolTip="{DynamicResource _FontSize}" Minimum="8"  IsSnapToTickEnabled="True" TickFrequency="2" TickPlacement="Both" Maximum="72" Height="32" Width="188" Margin="10,0,0,0" ValueChanged="FontSizeSlider_ValueChanged" VerticalAlignment="Center"/>
+            <Label x:Name="FontSizeLabel" Content="12" ToolTip="{DynamicResource _FontSize}"  FontSize="15" VerticalAlignment="Center" FontFamily="Century Gothic"/>
+            <Separator Background="Gray"/>
+
+            <Button Click="FranchLanguage_Click" ToolTip="{DynamicResource _Ru}" Margin="5,0,0,0">
+                <Image Source="Resourses/Russia.ico"/>
+            </Button>
+            <Button Click="EnglishLanguage_Click" ToolTip="{DynamicResource _Eng}">
+                <Image Source="Resourses/United-States.ico"/>
+            </Button>
+            <Button Click="FranchLanguage_Click" ToolTip="{DynamicResource _Fr}">
+                <Image Source="Resourses/France1.ico"/>
+            </Button>
+            <Label Content="{DynamicResource _Lang}" FontSize="15" VerticalAlignment="Center" FontFamily="Century Gothic" Style="{DynamicResource LabelStyle}" ></Label>
+            <Separator Background="Gray"/>
+            <ComboBox x:Name="styleBox" Margin="10,0,0,0"/>
+        </ToolBar>
+
+        <!--Область редактирования-->
+        <RichTextBox x:Name="EditableText" SpellCheck.IsEnabled="True"  FontSize="12" Grid.Row="2"
+                     ScrollViewer.VerticalScrollBarVisibility="Visible" ScrollViewer.HorizontalScrollBarVisibility="Visible"
+                     BorderThickness="0" TextChanged="EditableText_TextChanged" SelectionChanged="EditableText_FontUpdate"
+                     Drop="EditableText_Drop" AllowDrop="True" DragOver="EditableText_DragOver"
+                     Style="{DynamicResource TextBlockStyle}" >
+            <FlowDocument>
+                <Paragraph Margin="0,0,0,0">
+                    <Run/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+
+        <!--Статус-бар-->
+        <StatusBar x:Name="StatusBar" Grid.Row="3"  VerticalAlignment="Bottom"  Style="{DynamicResource StatusBarStyle}">
+            <StackPanel Orientation="Horizontal">
+                <Label x:Name="labelCountOfStrings" Content="Количество строк: 0" FontSize="16" FontFamily="Century Gothic"  VerticalAlignment="Center" Style="{DynamicResource LabelStyle}"/>
+                <Label x:Name="labelCountOfSymbols" Content="Количество символов: 0" FontSize="16" FontFamily="Century Gothic"  VerticalAlignment="Center" Style="{DynamicResource LabelStyle}"/>
+                <Button x:Name="button1" Content="Кнопка 1" Margin="5" Background="#72C58F" Style="{DynamicResource btn1}"/>
+                <Button x:Name="button2" Content="Кнопка 2"  Margin="5" Width="55"  Background="#72C58F" Style="{DynamicResource btn2}"/>
+                <Button x:Name="button3" Content="Кнопка 3" Margin="5"  Background="#72C58F" Style="{DynamicResource btn3}"/>
+                <CheckBox x:Name="checkBox1" VerticalAlignment="Center"/>
+                <UserControl>
+                    <Grid>
+                        <Label VerticalAlignment="Center">label</Label>
+                    </Grid>
+                </UserControl>
+                <Button Background="#72C58F">
+                    <Path Stroke="DarkGoldenRod" StrokeThickness="3"   
+                Data="M 20,50 C 50,5 10,0 0,20 H 100" />
+                </Button>
+            </StackPanel>
+        </StatusBar>
+    </Grid>
+</Window>
